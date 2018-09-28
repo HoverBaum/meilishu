@@ -1,0 +1,10 @@
+{
+  "name": "@meilishu/core",
+  "version": "1.0.0",
+  "description": "Core functionality of MeiliShu",
+  "main": "core.js",
+  "scripts": {},
+  "dependencies": {
+    "recursive-readdir": "^2.2.2"
+  }
+}
